@@ -18,8 +18,6 @@ namespace ClassLibrary1
             this.legalAdress = legalAdress;
             this.actualAdress = actualAdress;
             this.employee = employee; 
-
         }
     }
-    
 }
